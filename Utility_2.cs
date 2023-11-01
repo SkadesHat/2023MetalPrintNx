@@ -43,7 +43,7 @@ namespace NX_utilities11
         }*/
 
 
-       /*  2131231231  sda123123123*/
+       /*  2131231231  sda12312312    3*/
         // 得到曲面的中心点
         public static Point3d GetCenterPoint(Face face)
         {
