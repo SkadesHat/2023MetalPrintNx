@@ -42,8 +42,8 @@ namespace NX_utilities11
             return retValue;
         }*/
 
-
-
+        /*asdas a*/
+        
         // 得到曲面的中心点
         public static Point3d GetCenterPoint(Face face)
         {
